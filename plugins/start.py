@@ -89,7 +89,7 @@ async def start_command(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton("Updates🥵", url= "https://t.me/+7qtsOTaiUA8xZThl"),
-                    InlineKeyboardButton("🔒Support", callback_data = "close")
+                    InlineKeyboardButton("🔒Support", url="https://t.me/+IxXWEuCgzM4wOTI1")
                 ]
             ]
         )
